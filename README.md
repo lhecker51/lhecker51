@@ -1,5 +1,4 @@
 Hello!
-I'm a computer science student currently studying at [Karlsruher Institut für Technologie](https://kit.edu)
 
 ## Skills
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
