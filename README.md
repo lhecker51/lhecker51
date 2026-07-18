@@ -1,10 +1,4 @@
 Hello!
 
 ## Skills
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=PostgreSQL)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
